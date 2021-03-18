@@ -17,6 +17,7 @@ export default {
 <style scoped>
 div p {
     background-color: red;
+    font-size: 19px;
 }
 
 </style>
